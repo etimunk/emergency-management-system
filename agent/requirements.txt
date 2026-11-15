@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+langchain-core
+langchain-openai
+langgraph
+httpx
+python-dotenv
+
+# RAG - ingest of protocol PDFs (protocols/ingest_protocol.py)
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
